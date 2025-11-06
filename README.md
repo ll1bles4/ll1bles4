@@ -1,4 +1,4 @@
-# 💻 Junior Go Backend Developer
+# 💻 Junior Golang developer
 
 ## 👋 About Me
 I’m a junior backend developer specializing in **Golang**.  
